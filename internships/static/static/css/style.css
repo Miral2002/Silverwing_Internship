@@ -1271,7 +1271,7 @@ a.dec.qtybutton {padding-top: 3px;}
 }
 .testimonials {
   background-attachment: fixed !important;
-  background-image: url("img/testimonial/1.jpg");
+  background-image: url("testimonial/1.jpg");
   background-size: cover !important;
   margin-top: 90px;
 }
